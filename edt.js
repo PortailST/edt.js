@@ -57,7 +57,7 @@ const data = {
     },
     {
       day: "Vendredi", date: "12 Septembre", events: [
-        `(HORAIRE SUR MOODLE) : EVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+        `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
       ]
     }],
   groupeST2: [ {
@@ -118,7 +118,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(HORAIRE SUR MOODLE) : EVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   } ],
   groupeST3: [{
@@ -771,7 +771,7 @@ function renderDay(direction = 'right') {
       else if (event.includes('Atelier') || event.includes('ATELIER')) { bg='#ff008c'; color='#fff'; }
       else if (event.includes('Présentation')) { bg='#a190f7'; }
       else if (event.includes('Innovation')) { bg='#f9ae5d'; color='#fff'; }
-      else if (event.includes('EVALUATION')) { bg='#eb1a1a'; }
+      else if (event.includes('ÉVALUATION')) { bg='#eb1a1a'; }
       html += `<div style="
         margin:14px 0;
         line-height:1.5;

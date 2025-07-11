@@ -1645,14 +1645,16 @@ const data = {
     "date": "8 septembre",
     "events": [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.4<br>(Bât M)</b>",
-      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "13h00-15h00 : TP BPL<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 309 & 419<br>(Bât TP SC. Naturelles)</b>",
+      "15h15-17h15 : TP Microscopie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 515 & 615<br>(Bât TP SC. Naturelles)</b>"
     ]
   },
   {
     "day": "Mardi",
     "date": "9 septembre",
     "events": [
-      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
+      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {

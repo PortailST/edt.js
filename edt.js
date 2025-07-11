@@ -177,7 +177,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST4: [{
@@ -236,7 +236,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST5: [{
@@ -297,7 +297,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST6: [{
@@ -358,7 +358,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST7: [{
@@ -419,7 +419,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST8: [{
@@ -480,7 +480,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST9: [{
@@ -541,7 +541,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST10: [{
@@ -602,7 +602,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST11: [{
@@ -663,7 +663,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST12: [{
@@ -724,7 +724,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "12 Septembre", events: [
-      `(Horaire sur Moodle) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   }],
   groupeST13: [],

@@ -160,8 +160,10 @@ document.getElementById('group-select').addEventListener('change', function () {
   renderDay('right');
 });
 
-renderDay('right');
-
-  });
-  updateCurrentDate();
+document.getElementById('group-select').addEventListener('change', function () {
+  currentGroup = this.value;
+  currentIndex = 0;
+  renderDay('right');
 });
+
+renderDay('right');

@@ -1256,16 +1256,750 @@ const data = {
       `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   }],
-  groupeSV1: [],
-  groupeSV2: [],
-  groupeSV3: [],
-  groupeSV4: [],
-  groupeSV5: [],
-  groupeSV6: [],
-  groupeSV7: [],
-  groupeSV8: [],
-  groupeSV9: [],
-  groupeSV10: []
+  groupeSV1: [{
+    day: "Lundi", date: "1 septembre", events: [
+      `9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "2 septembre", events: [
+      `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
+      `15h15-16h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "3 septembre", events: [
+      `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Jeudi", date: "4 septembre", events: [
+      `8h00-10h00 : TP BPL<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 307 & 419 (Bât TP SC. Naturelles)</b>`,
+      `10h15-12h15 : TP Microscopie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 515 & 615 (Bât TP SC. Naturelles)</b>`,
+      `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.2 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "5 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
+      `10h15-11h15 : Présentation Licence Chimie pour SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `11h15-12h15 : Amphi Méthodologie (SV)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
+    ]
+  },
+  {
+    day: "Lundi", date: "8 septembre", events: [
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
+      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "9 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "10 septembre", events: [
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Jeudi", date: "11 septembre", events: [
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "12 septembre", events: [
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  }],
+  groupeSV2: [ {
+    day: "Lundi",
+    date: "1 septembre",
+    events: [
+      '9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>',
+      '11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>'
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "2 septembre",
+    events: [
+      '10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>',
+      '13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>',
+      '15h15-16h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>'
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "3 septembre",
+    events: [
+      '9h30-13h30 : FORUM D\'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>',
+      '13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>'
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "4 septembre",
+    events: [
+      '10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>'
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "5 septembre",
+    events: [
+      '8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>',
+      '10h15-11h15 : Présentation Licence Chimie pour SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>',
+      '11h15-12h15 : Amphi Méthodologie (SV)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>',
+      '13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>'
+    ]
+  },
+  {
+    day: "Lundi",
+    date: "8 septembre",
+    events: [
+      '8h00-10h00 : TP BPL<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 309 & 419 (Bât TP SC. Naturelles)</b>',
+      '10h15-12h15 : TP Microscopie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 515 & 615 (Bât TP SC. Naturelles)</b>',
+      '13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.4 (Bât M)</b>'
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "9 septembre",
+    events: [
+      '8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>',
+      '13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>'
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "10 septembre",
+    events: [
+      '13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>'
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "11 septembre",
+    events: [
+      '10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>'
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "12 septembre",
+    events: [
+      '(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>'
+    ]
+  }],
+  groupeSV3: [{
+    day: "Lundi",
+    date: "1 septembre",
+    events: [
+      "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "2 septembre",
+    events: [
+      "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>",
+      "16h15-17h15 : Atelier de rentrée - OBLIGATOIRE<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking (Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "3 septembre",
+    events: [
+      "9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Bibliothèque</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "4 septembre",
+    events: [
+      "10h15-12h15 : TP BPL<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 307 & 419 (Bât TP SC. Naturelles)</b>",
+      "13h00-15h00 : TP Microscopie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 515 & 615 (Bât TP SC. Naturelles)</b>",
+      "15h15-17h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.1 (Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "5 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>",
+      "10h15-11h15 : Présentation Licence Chimie pour SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "11h15-12h15 : Amphi Méthodologie (SV)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
+    ]
+  },
+  {
+    day: "Lundi",
+    date: "8 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4 (Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "9 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>",
+      "13h00-15h00 : Innovation (Fablab & Invent)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "10 septembre",
+    events: [
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "11 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "12 septembre",
+    events: [
+      "(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  }],
+  groupeSV4: [{
+    day: "Lundi", date: "1 septembre", events: [
+      `9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `11h15-12h15 : Réunion de Pré-Rentrée DL BIO-GS<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5</b>`,
+      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "2 septembre", events: [
+      `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "3 septembre", events: [
+      `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Jeudi", date: "4 septembre", events: [
+      `10h15-12h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.4 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "5 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`,
+      `10h15-11h15 : Présentation Licence Chimie pour SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `11h15-12h15 : Amphi Méthodologie (SV)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
+    ]
+  },
+  {
+    day: "Lundi", date: "8 septembre", events: [
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.3 (Bât M)</b>`,
+      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "9 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "10 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.5 (Bât M)</b>`,
+      `10h15-12h15 : TP BPL<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 309 & 419 (Bât TP SC. Naturelles)</b>`,
+      `13h00-15h00 : TP Microscopie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 515 & 615 (Bât TP SC. Naturelles)</b>`
+    ]
+  },
+  {
+    day: "Jeudi", date: "11 septembre", events: [
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "12 septembre", events: [
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  }],
+  groupeSV5: [ {
+    day: "Lundi", date: "1 septembre", events: [
+      `9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "2 septembre", events: [
+      `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
+      `16h15-17h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "3 septembre", events: [
+      `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Jeudi", date: "4 septembre", events: [
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "5 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
+      `10h15-11h15 : Présentation Licence Chimie pour SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `11h15-12h15 : Amphi Méthodologie (SV)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
+    ]
+  },
+  {
+    day: "Lundi", date: "8 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.3 (Bât M)</b>`,
+      `10h15-12h15 : TP BPL<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 309 & 419 (Bât TP SC. Naturelles)</b>`,
+      `13h00-15h00 : TP Microscopie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle 515 & 615 (Bât TP SC. Naturelles)</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "9 septembre", events: [
+      `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
+      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "10 septembre", events: [
+      `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Jeudi", date: "11 septembre", events: [
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "12 septembre", events: [
+      `(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  }],
+  groupeSV6: [{
+    "day": "Lundi",
+    "date": "1 septembre",
+    "events": [
+      "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    "day": "Mardi",
+    "date": "2 septembre",
+    "events": [
+      "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+    ]
+  },
+  {
+    "day": "Mercredi",
+    "date": "3 septembre",
+    "events": [
+      "9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Bibliothèque</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+    ]
+  },
+  {
+    "day": "Jeudi",
+    "date": "4 septembre",
+    "events": [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.3<br>(Bât M)</b>",
+      "13h00-14h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+    ]
+  },
+  {
+    "day": "Vendredi",
+    "date": "5 septembre",
+    "events": [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
+      "10h15-11h15 : Présentation Licence Chimie pour SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "11h15-12h15 : Amphi Méthodologie (SV)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
+    ]
+  },
+  {
+    "day": "Lundi",
+    "date": "8 septembre",
+    "events": [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.4<br>(Bât M)</b>",
+      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    "day": "Mardi",
+    "date": "9 septembre",
+    "events": [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+    ]
+  },
+  {
+    "day": "Mercredi",
+    "date": "10 septembre",
+    "events": [
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.5<br>(Bât M)</b>"
+    ]
+  },
+  {
+    "day": "Jeudi",
+    "date": "11 septembre",
+    "events": [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+    ]
+  },
+  {
+    "day": "Vendredi",
+    "date": "12 septembre",
+    "events": [
+      "<span style=\"color:white; background:#eb1a1a; font-weight:bold; padding:2px 4px;\">(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  }],
+  groupeSV7: [{
+    day: "Lundi",
+    date: "1 septembre",
+    events: [
+      "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "2 septembre",
+    events: [
+      "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "3 septembre",
+    events: [
+      "9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Bibliothèque</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "4 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.4<br>(Bât M)</b>",
+      "13h00-14h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "5 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>",
+      "10h15-11h15 : Présentation Licence Chimie pour SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "11h15-12h15 : Amphi Méthodologie (SV)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
+    ]
+  },
+  {
+    day: "Lundi",
+    date: "8 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.5<br>(Bât M)</b>",
+      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "9 septembre",
+    events: [
+      "8h00-10h00 : TP BPL<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 309 & 419<br>(Bât TP SC. Naturelles)</b>",
+      "10h15-12h15 : TP Microscopie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 515 & 615<br>(Bât TP SC. Naturelles)</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "10 septembre",
+    events: [
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "11 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "12 septembre",
+    events: [
+      "<span style=\"color:white; background:#eb1a1a; font-weight:bold; padding:2px 4px;\">(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  }],
+  groupeSV8: [{
+    day: "Lundi",
+    date: "1 septembre",
+    events: [
+      "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "11h15-12h15 : Réunion de Pré-Rentrée DL Chimie-SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.1</b>",
+      "13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "2 septembre",
+    events: [
+      "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
+      "15h15-17h15 : Présentation Licence Chimie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "3 septembre",
+    events: [
+      "9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Bibliothèque</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "4 septembre",
+    events: [
+      "11h15-12h15 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "15h15-17h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "5 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
+      "10h15-11h15 : Présentation Licence Chimie pour SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "11h15-12h15 : Amphi Méthodologie (SV)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
+    ]
+  },
+  {
+    day: "Lundi",
+    date: "8 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
+      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "9 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>",
+      "10h15-12h15 : TP BPL<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 309 & 419<br>(Bât TP SC. Naturelles)</b>",
+      "13h00-15h00 : TP Microscopie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 515 & 615<br>(Bât TP SC. Naturelles)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "10 septembre",
+    events: [
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "11 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "12 septembre",
+    events: [
+      "<span style=\"color:white; background:#eb1a1a; font-weight:bold; padding:2px 4px;\">(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  }],
+  groupeSV9: [{
+    day: "Lundi",
+    date: "1 septembre",
+    events: [
+      "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "2 septembre",
+    events: [
+      "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "3 septembre",
+    events: [
+      "9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Bibliothèque</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "4 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.5<br>(Bât M)</b>",
+      "14h00-15h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "5 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>",
+      "10h15-11h15 : Présentation Licence Chimie pour SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "11h15-12h15 : Amphi Méthodologie (SV)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
+    ]
+  },
+  {
+    day: "Lundi",
+    date: "8 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>",
+      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "9 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
+      "13h00-15h00 : TP BPL<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 309 & 419<br>(Bât TP SC. Naturelles)</b>",
+      "15h15-17h15 : TP Microscopie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 515 & 615<br>(Bât TP SC. Naturelles)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "10 septembre",
+    events: [
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "11 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "12 septembre",
+    events: [
+      "<span style=\"color:white; background:#eb1a1a; font-weight:bold; padding:2px 4px;\">(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  }],
+  groupeSV10: [{
+    day: "Lundi",
+    date: "1 septembre",
+    events: [
+      "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "11h15-12h15 : Réunion de Pré-Rentrée Portail SV - OUI SI<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "2 septembre",
+    events: [
+      "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "3 septembre",
+    events: [
+      "9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Bibliothèque</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "4 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
+      "14h00-15h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "5 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>",
+      "10h15-11h15 : Présentation Licence Chimie pour SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "11h15-12h15 : Amphi Méthodologie (SV)<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>",
+      "13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
+    ]
+  },
+  {
+    day: "Lundi",
+    date: "8 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
+      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  },
+  {
+    day: "Mardi",
+    date: "9 septembre",
+    events: [
+      "8h00-10h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Mercredi",
+    date: "10 septembre",
+    events: [
+      "8h00-10h00 : TP BPL<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 309 & 419<br>(Bât TP SC. Naturelles)</b>",
+      "10h15-12h15 : TP Microscopie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle 515 & 615<br>(Bât TP SC. Naturelles)</b>",
+      "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Jeudi",
+    date: "11 septembre",
+    events: [
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
+    ]
+  },
+  {
+    day: "Vendredi",
+    date: "12 septembre",
+    events: [
+      "<span style=\"color:white; background:#eb1a1a; font-weight:bold; padding:2px 4px;\">(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+    ]
+  }]
 };
 
 let currentGroup = 'groupeST1';

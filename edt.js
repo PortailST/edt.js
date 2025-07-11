@@ -1,119 +1,167 @@
-const scheduleData = {
-  "Groupe ST1": {
-    "Lundi 1 septembre": [
-      { time: "11h15-12h15", title: "Réunion de Pré-Rentrée Portail ST - OUI SI", location: "AMPHI PHYSIQUE" },
-      { time: "13h00-15h00", title: "Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus", location: "AMPHI PV" },
-      { time: "15h15-17h15", title: "Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus", location: "AMPHI PV" }
-    ],
-    "Mardi 2 septembre": [
-      { time: "8h00-10h00", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" },
-      { time: "13h00-15h00", title: "Présentation Licence Physique", location: "AMPHI PV" },
-      { time: "15h15-17h15", title: "Présentation Licence Chimie", location: "AMPHI PV" }
-    ],
-    "Mercredi 3 septembre": [
-      { time: "9h30-13h30", title: "FORUM D'ACCUEIL - Nouveaux entrants", location: "Bibliothèque" },
-      { time: "14h00-15h00", title: "Atelier de rentrée - OBLIGATOIRE", location: "Salle Coworking (Bât M)" },
-      { time: "15h15-17h15", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" }
-    ],
-    "Jeudi 4 septembre": [
-      { time: "8h00-10h00", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" },
-      { time: "10h15-12h15", title: "Présentation Licence Mathématiques & MIASHS", location: "AMPHI PV" },
-      { time: "13h00-15h00", title: "Présentation Licence Informatique", location: "AMPHI PV" },
-      { time: "15h15-17h15", title: "Présentation Licence Electronique & IA", location: "AMPHI PV" }
-    ],
-    "Vendredi 5 septembre": [
-      { time: "10h15-12h15", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" },
-      { time: "13h00-15h00", title: "Présentation Licence Sciences de la Terre", location: "AMPHI Sc. Naturelles" }
-    ],
-    "Lundi 8 septembre": [
-      { time: "8h00-10h00", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" },
-      { time: "13h00-15h00", title: "Innovation (Fablab & Invent)", location: "AMPHI PV" }
-    ],
-    "Mardi 9 septembre": [
-      { time: "10h15-12h15", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" }
-    ],
-    "Mercredi 10 septembre": [
-      { time: "10h15-12h15", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" }
-    ],
-    "Jeudi 11 septembre": [
-      { time: "8h00-10h00", title: "TD Maths0", location: "Salle M 1.1 (Bât M)" }
-    ],
-    "Vendredi 12 septembre": [
-      { time: "(HORAIRE SUR MOODLE)", title: "ÉVALUATION MATHS0", location: "AMPHI PV" }
-    ]
-  },
-
-  // ... Ajoute ici les données des groupes ST2 à ST12 dans la même structure
+const data = {
+  groupeST1: [ {
+      day: "Lundi", date: "1er Septembre", events: [
+        `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
+        `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+        `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      ]
+    },
+    {
+      day: "Mardi", date: "2 Septembre", events: [
+        `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`,
+        `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+        `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      ]
+    },
+    {
+      day: "Mercredi", date: "3 Septembre", events: [
+        `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
+        `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+        `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`
+      ]
+    },
+    {
+      day: "Jeudi", date: "4 Septembre", events: [
+        `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`,
+        `10h15-12h15 : Présentation Licence Mathématiques & MIASHS<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+        `13h00-15h00 : Présentation Licence Informatique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+        `13h00-15h00 : Présentation Licence Electronique & IA<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      ]
+    },
+    {
+      day: "Vendredi", date: "5 Septembre", events: [
+        `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`,
+        `13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI Sc. Naturelles`
+      ]
+    },
+    {
+      day: "Lundi", date: "8 Septembre", events: [
+        `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`,
+        `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      ]
+    },
+    {
+      day: "Mardi", date: "9 Septembre", events: [
+        `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`
+      ]
+    },
+    {
+      day: "Mercredi", date: "10 Septembre", events: [
+        `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`
+      ]
+    },
+    {
+      day: "Jeudi", date: "11 Septembre", events: [
+        `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Math 1.1 (Bât M)`
+      ]
+    },
+    {
+      day: "Vendredi", date: "12 Septembre", events: [
+        `HORAIRE SUR MOODLE : EVALUATION MATHS0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      ]
+    }],
+  groupeST2: [],
+  groupeST3: [],
+  groupeST4: [],
+  groupeST5: [],
+  groupeST6: [],
+  groupeST7: [],
+  groupeST8: [],
+  groupeST9: [],
+  groupeST10: [],
+  groupeST11: [],
+  groupeST12: [],
+  groupeST13: [],
+  groupeST14: [],
+  groupeST15: [],
+  groupeST16: [],
+  groupeST17: [],
+  groupeST18: [],
+  groupeST19: [],
+  groupeST20: [],
+  groupeST21: [],
+  groupeSV1: [],
+  groupeSV2: [],
+  groupeSV3: [],
+  groupeSV4: [],
+  groupeSV5: [],
+  groupeSV6: [],
+  groupeSV7: [],
+  groupeSV8: [],
+  groupeSV9: [],
+  groupeSV10: []
 };
 
-// Fonction d’affichage
-function displayScheduleForDay(group, date) {
-  const contentEl = document.getElementById("day-content");
-  const groupData = scheduleData[group];
-  const day = groupData ? groupData[date] : null;
+let currentGroup = 'groupeST1';
+let currentIndex = 0;
+let sliding = false;
 
-  if (!day || !Array.isArray(day)) {
-    contentEl.innerHTML = '<p style="text-align:center; font-weight:bold; color:#555;">Aucun événement ce jour-là.</p>';
-    return;
-  }
+function renderDay(direction = 'right') {
+  if (sliding) return;
+  sliding = true;
+  const content = document.getElementById('day-content');
+  content.style.transition = 'transform 0.2s ease-in-out';
+  content.style.transform = `translateX(${direction === 'right' ? '-100%' : '100%'})`;
 
-  contentEl.innerHTML = day
-    .map(event => {
-      let bgColor = "#0095c8";
-      if (/atelier de rentrée/i.test(event.title)) bgColor = "#ff008c";
-      if (/évaluation/i.test(event.title)) bgColor = "#eb1a1a";
-
-      const textColor = bgColor === "#eb1a1a" ? "#fff" : "#fff";
-
-      return `
-        <div style="background:${bgColor}; color:${textColor}; font-weight:bold; margin:10px 0; padding:10px 15px; border-radius:10px;">
-          ${event.time} : ${event.title}<br>
-          <img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px;height:20px;vertical-align:middle;margin-right:5px;filter:brightness(0) invert(1);" />
-          ${event.location}
-        </div>`;
-    })
-    .join("");
-}
-
-// Navigation
-let currentGroup = "Groupe ST1";
-let currentDateIndex = 0;
-let currentDates = Object.keys(scheduleData[currentGroup]);
-
-function updateCurrentDate() {
-  document.getElementById("current-date").textContent = currentDates[currentDateIndex];
-  displayScheduleForDay(currentGroup, currentDates[currentDateIndex]);
-}
-
-function prevDay() {
-  if (currentDateIndex > 0) {
-    currentDateIndex--;
-    updateCurrentDate();
-  }
+  setTimeout(() => {
+    const dayData = data[currentGroup][currentIndex];
+    document.getElementById('current-date').textContent = `${dayData.day} - ${dayData.date}`;
+    let html = "";
+    dayData.events.forEach(event => {
+      let bg = '#999', color = '#fff';
+      if (event.includes('Réunion')) { bg='#0095c8'; }
+      else if (event.includes('TD')) { bg='#007ba3'; }
+      else if (event.includes('FORUM')) { bg='#00a888'; }
+      else if (event.includes('Atelier') || event.includes('ATELIER')) { bg='#ff008c'; color='#fff'; }
+      else if (event.includes('Présentation')) { bg='#a190f7'; }
+      else if (event.includes('Innovation')) { bg='#f9ae5d'; color='#fff'; }
+      else if (event.includes('EVALUATION')) { bg='#eb1a1a'; }
+      html += `<div style="
+        margin:14px 0;
+        line-height:1.5;
+        font-size:18px;
+        border-radius:12px;
+        padding:14px 18px;
+        color:${color};
+        background:${bg};
+        box-shadow:0 3px 6px rgba(0,0,0,0.1);
+        word-break:break-word;
+        font-weight:bold;
+      ">${event}</div>`;
+    });
+    content.innerHTML = html;
+    content.style.transition = 'none';
+    content.style.transform = `translateX(${direction === 'right' ? '100%' : '-100%'})`;
+    setTimeout(() => {
+      content.style.transition = 'transform 0.2s ease-in-out';
+      content.style.transform = 'translateX(0)';
+      sliding = false;
+    }, 20);
+  }, 200);
 }
 
 function nextDay() {
-  if (currentDateIndex < currentDates.length - 1) {
-    currentDateIndex++;
-    updateCurrentDate();
-  }
+  const groupData = data[currentGroup];
+  if (!groupData) return;
+  currentIndex = (currentIndex + 1) % groupData.length;
+  renderDay('right');
 }
 
-document.getElementById("group-select").addEventListener("change", function () {
+function prevDay() {
+  const groupData = data[currentGroup];
+  if (!groupData) return;
+  currentIndex = (currentIndex - 1 + groupData.length) % groupData.length;
+  renderDay('left');
+}
+
+document.getElementById('group-select').addEventListener('change', function () {
   currentGroup = this.value;
-  currentDates = Object.keys(scheduleData[currentGroup]);
-  currentDateIndex = 0;
-  updateCurrentDate();
+  currentIndex = 0;
+  renderDay('right');
 });
 
-// Initialisation
-document.addEventListener("DOMContentLoaded", () => {
-  const select = document.getElementById("group-select");
-  Object.keys(scheduleData).forEach(group => {
-    const option = document.createElement("option");
-    option.value = group;
-    option.textContent = group;
-    select.appendChild(option);
+renderDay('right');
+
   });
   updateCurrentDate();
 });

@@ -1,5 +1,4 @@
-
-const timetableData = {
+const scheduleData = {
   "Groupe ST1": {
     "Lundi 1 septembre": [
       { time: "11h15-12h15", title: "Réunion de Pré-Rentrée Portail ST - OUI SI", location: "AMPHI PHYSIQUE" },
@@ -42,69 +41,79 @@ const timetableData = {
     "Vendredi 12 septembre": [
       { time: "(HORAIRE SUR MOODLE)", title: "ÉVALUATION MATHS0", location: "AMPHI PV" }
     ]
-  }
+  },
+
+  // ... Ajoute ici les données des groupes ST2 à ST12 dans la même structure
 };
 
-const groupSelect = document.getElementById("group-select");
-const dayContent = document.getElementById("day-content");
-const currentDateLabel = document.getElementById("current-date");
+// Fonction d’affichage
+function displayScheduleForDay(group, date) {
+  const contentEl = document.getElementById("day-content");
+  const groupData = scheduleData[group];
+  const day = groupData ? groupData[date] : null;
 
-let currentGroup = "Groupe ST1";
-let currentDateIndex = 0;
-
-function updateGroupOptions() {
-  for (let group in timetableData) {
-    const option = document.createElement("option");
-    option.value = group;
-    option.textContent = group;
-    groupSelect.appendChild(option);
+  if (!day || !Array.isArray(day)) {
+    contentEl.innerHTML = '<p style="text-align:center; font-weight:bold; color:#555;">Aucun événement ce jour-là.</p>';
+    return;
   }
-}
 
-function renderDay() {
-  const days = Object.keys(timetableData[currentGroup]);
-  const date = days[currentDateIndex];
-  currentDateLabel.textContent = date;
-  const events = timetableData[currentGroup][date];
-
-  const html = events
+  contentEl.innerHTML = day
     .map(event => {
-      let bgColor = "#007ba3";
-      let color = "white";
-      if (event.title.toLowerCase().includes("atelier")) bgColor = "#ff008c";
-      if (event.title.toLowerCase().includes("évaluation")) bgColor = "#eb1a1a";
-      if (event.title.toLowerCase().includes("innovation")) bgColor = "#f08c00";
-      if (event.title.toLowerCase().includes("présentation")) bgColor = "#8a6cff";
+      let bgColor = "#0095c8";
+      if (/atelier de rentrée/i.test(event.title)) bgColor = "#ff008c";
+      if (/évaluation/i.test(event.title)) bgColor = "#eb1a1a";
 
-      return \`
-        <div style="background:\${bgColor};color:\${color};padding:10px 16px;margin:8px 0;border-radius:10px;font-weight:bold;">
-          \${event.time} : \${event.title}<br/>
-          <img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px;height:20px;vertical-align:middle;margin-right:8px;filter:brightness(0) invert(1);"> \${event.location}
-        </div>
-      \`;
+      const textColor = bgColor === "#eb1a1a" ? "#fff" : "#fff";
+
+      return `
+        <div style="background:${bgColor}; color:${textColor}; font-weight:bold; margin:10px 0; padding:10px 15px; border-radius:10px;">
+          ${event.time} : ${event.title}<br>
+          <img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px;height:20px;vertical-align:middle;margin-right:5px;filter:brightness(0) invert(1);" />
+          ${event.location}
+        </div>`;
     })
     .join("");
+}
 
-  dayContent.innerHTML = html;
+// Navigation
+let currentGroup = "Groupe ST1";
+let currentDateIndex = 0;
+let currentDates = Object.keys(scheduleData[currentGroup]);
+
+function updateCurrentDate() {
+  document.getElementById("current-date").textContent = currentDates[currentDateIndex];
+  displayScheduleForDay(currentGroup, currentDates[currentDateIndex]);
 }
 
 function prevDay() {
-  const days = Object.keys(timetableData[currentGroup]);
-  currentDateIndex = (currentDateIndex - 1 + days.length) % days.length;
-  renderDay();
+  if (currentDateIndex > 0) {
+    currentDateIndex--;
+    updateCurrentDate();
+  }
 }
 
 function nextDay() {
-  const days = Object.keys(timetableData[currentGroup]);
-  currentDateIndex = (currentDateIndex + 1) % days.length;
-  renderDay();
+  if (currentDateIndex < currentDates.length - 1) {
+    currentDateIndex++;
+    updateCurrentDate();
+  }
 }
 
-groupSelect.addEventListener("change", function () {
+document.getElementById("group-select").addEventListener("change", function () {
   currentGroup = this.value;
+  currentDates = Object.keys(scheduleData[currentGroup]);
   currentDateIndex = 0;
-  renderDay();
+  updateCurrentDate();
 });
 
-updateGroupOptions();
-renderDay();
+// Initialisation
+document.addEventListener("DOMContentLoaded", () => {
+  const select = document.getElementById("group-select");
+  Object.keys(scheduleData).forEach(group => {
+    const option = document.createElement("option");
+    option.value = group;
+    option.textContent = group;
+    select.appendChild(option);
+  });
+  updateCurrentDate();
+});

@@ -2026,8 +2026,6 @@ function renderDay(direction = 'right') {
       else if (event.includes('FORUM')) { bg='#00a888'; }
       else if (event.includes('Atelier') || event.includes('ATELIER')) { bg='#ff008c'; color='#fff'; }
       else if (event.includes('Présentation')) { bg='#a190f7'; }
-      else if (event.includes('Méthodologie')) { bg='#9ff3fc'; }
-      else if (event.includes('TP')) { bg='#ff7dc2'; }
       else if (event.includes('Innovation')) { bg='#f9ae5d'; color='#fff'; }
       else if (event.includes('ÉVALUATION')) { bg='#eb1a1a'; }
       html += `<div style="

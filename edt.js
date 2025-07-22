@@ -1912,7 +1912,8 @@ const data = {
     day: "Jeudi",
     date: "11 septembre",
     events: [
-      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>",
+      "13h00-15h00 : Projet Interface<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.6<br>(Bât M)</b>"
     ]
   },
   {

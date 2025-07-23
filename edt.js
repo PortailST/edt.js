@@ -1843,7 +1843,7 @@ const data = {
     events: [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
       "13h00-15h00 : Projet Interface<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.6<br>(Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -2042,6 +2042,10 @@ function renderDay(direction = 'right') {
       else if (event.includes('Présentation')) { bg='#a190f7'; }
       else if (event.includes('Innovation')) { bg='#f9ae5d'; color='#fff'; }
       else if (event.includes('ÉVALUATION')) { bg='#eb1a1a'; }
+      else if (event.includes('Projet Interface')) { bg='#1b3f87'; color='#fff'; }
+      else if (event.includes('Préparations aux concours')) { bg='#497c47'; color='#fff'; }
+      else if (event.includes('Amphi Méthodologie')) { bg='#93329e'; color='#fff'; }
+      else if (event.includes('TP BPL') || event.includes('TP Microscopie')) { bg='#ff6f1e'; color='#fff'; }
       html += `<div style="
         margin:14px 0;
         line-height:1.5;

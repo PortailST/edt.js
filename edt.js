@@ -1470,7 +1470,7 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
     ]
   },
   {

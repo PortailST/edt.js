@@ -2036,6 +2036,7 @@ function renderDay(direction = 'right') {
       let bg = '#999', color = '#fff';
       if (event.includes('Réunion')) { bg='#0095c8'; }
       else if (event.includes('TD')) { bg='#007ba3'; }
+      else if (event.includes('TP')) { bg='#f9ae5d'; color='#fff'; }
       else if (event.includes('FORUM')) { bg='#00a888'; }
       else if (event.includes('Ateliers') || event.includes('Ateliers')) { bg='#ff008c'; color='#fff'; }
       else if (event.includes('Présentation')) { bg='#a190f7'; }

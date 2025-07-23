@@ -2046,7 +2046,7 @@ const data = {
   }],
 };
 
-let currentGroup = document.getElementById('group-select').value;
+let currentGroup;
 let currentIndex = 0;
 let sliding = false;
 
@@ -2114,16 +2114,14 @@ function prevDay() {
   renderDay('left');
 }
 
-document.getElementById('group-select').addEventListener('change', function () {
-  currentGroup = this.value;
+document.addEventListener("DOMContentLoaded", function () {
+  currentGroup = document.getElementById('group-select').value;
   currentIndex = 0;
   renderDay('right');
-});
 
-document.getElementById('group-select').addEventListener('change', function () {
-  currentGroup = this.value;
-  currentIndex = 0;
-  renderDay('right');
+  document.getElementById('group-select').addEventListener('change', function () {
+    currentGroup = this.value;
+    currentIndex = 0;
+    renderDay('right');
+  });
 });
-
-renderDay('right');

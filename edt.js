@@ -16,7 +16,7 @@ const data = {
     {
       day: "Mercredi", date: "3 Septembre", events: [
         `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
-        `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+        `14h00-15h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
         `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.1 (Bât M)`
       ]
     },
@@ -77,7 +77,7 @@ const data = {
   {
     day: "Mercredi", date: "3 Septembre", events: [
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
-      `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `14h00-15h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.2 (Bât M)`
     ]
   },
@@ -138,7 +138,7 @@ const data = {
   {
     day: "Mercredi", date: "3 Septembre", events: [
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
-      `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `14h00-15h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.1 (Bât M)`
     ]
   },
@@ -197,7 +197,7 @@ const data = {
   {
     day: "Mercredi", date: "3 Septembre", events: [
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
-      `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `14h00-15h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.1 (Bât M)`
     ]
   },
@@ -256,7 +256,7 @@ const data = {
   {
     day: "Mercredi", date: "3 Septembre", events: [
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
-      `13h00-14h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `13h00-14h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.5 (Bât M)`
     ]
   },
@@ -318,7 +318,7 @@ const data = {
     day: "Mercredi", date: "3 Septembre", events: [
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
       `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 3.2 (Bât M)`,
-      `15h15-16h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`
+      `15h15-16h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`
     ]
   },
   {
@@ -377,7 +377,7 @@ const data = {
   },
   {
     day: "Mercredi", date: "3 Septembre", events: [
-      `10h15-11h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `10h15-11h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 2.1 (Bât M)`
     ]
@@ -438,7 +438,7 @@ const data = {
   },
   {
     day: "Mercredi", date: "3 Septembre", events: [
-      `10h15-11h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `10h15-11h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 2.2 (Bât M)`
     ]
@@ -493,7 +493,7 @@ const data = {
   {
     day: "Mardi", date: "2 Septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 2.4 (Bât M)`,
-      `11h15-12h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `11h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
@@ -554,7 +554,7 @@ const data = {
   {
     day: "Mardi", date: "2 Septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 2.5 (Bât M)`,
-      `11h15-12h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `11h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
@@ -615,7 +615,7 @@ const data = {
   {
     day: "Mardi", date: "2 Septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 3.1 (Bât M)`,
-      `11h15-12h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
+      `11h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
@@ -684,7 +684,7 @@ const data = {
     day: "Mercredi", date: "3 Septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.1 (Bât M)`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Bibliothèque`,
-      `15h15-16h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`
+      `15h15-16h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle Coworking (Bât M)`
     ]
   },
   {
@@ -745,7 +745,7 @@ const data = {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
-      `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `14h00-15h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -798,7 +798,7 @@ const data = {
   {
     day: "Mardi", date: "2 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.3 (Bât M)</b>`,
-      `10h15-11h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `10h15-11h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
@@ -858,7 +858,7 @@ const data = {
   },
   {
     day: "Mardi", date: "2 septembre", events: [
-      `10h15-11h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `10h15-11h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.2 (Bât M)</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
@@ -918,7 +918,7 @@ const data = {
   {
     day: "Mardi", date: "2 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.2 (Bât M)</b>`,
-      `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `10h15-11h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
@@ -926,6 +926,7 @@ const data = {
   {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
+      `10h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`
     ]
   },
@@ -986,7 +987,7 @@ const data = {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.1 (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
-      `13h00-14h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `13h00-14h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -1043,7 +1044,7 @@ const data = {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.2 (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
-      `14h00-15h00 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `14h00-15h00 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -1099,7 +1100,7 @@ const data = {
   {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.3 (Bât M)</b>`,
-      `11h15-12h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `11h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`
     ]
   },
@@ -1157,7 +1158,7 @@ const data = {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.4 (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
-      `16h15-17h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `16h15-17h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -1215,7 +1216,7 @@ const data = {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.5 (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`,
-      `16h15-17h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `16h15-17h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -1266,7 +1267,7 @@ const data = {
     day: "Mardi", date: "2 septembre", events: [
       `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
-      `15h15-16h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `15h15-16h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -1308,7 +1309,8 @@ const data = {
   },
   {
     day: "Jeudi", date: "11 septembre", events: [
-      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
+      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>`
     ]
   },
   {
@@ -1330,7 +1332,7 @@ const data = {
     events: [
       '10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>',
       '13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>',
-      '15h15-16h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>'
+      '15h15-16h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>'
     ]
   },
   {
@@ -1386,7 +1388,8 @@ const data = {
     day: "Jeudi",
     date: "11 septembre",
     events: [
-      '10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>'
+      '10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>',
+      '13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>'
     ]
   },
   {
@@ -1410,7 +1413,7 @@ const data = {
     events: [
       "10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
       "13h00-15h00 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>",
-      "16h15-17h15 : Atelier de rentrée - OBLIGATOIRE<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking (Bât M)</b>"
+      "16h15-17h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking (Bât M)</b>"
     ]
   },
   {
@@ -1466,7 +1469,8 @@ const data = {
     day: "Jeudi",
     date: "11 septembre",
     events: [
-      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>"
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.2 (Bât M)</b>",
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -1498,7 +1502,7 @@ const data = {
   },
   {
     day: "Jeudi", date: "4 septembre", events: [
-      `10h15-12h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `10h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `15h15-17h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.4 (Bât M)</b>`
     ]
   },
@@ -1530,7 +1534,9 @@ const data = {
   },
   {
     day: "Jeudi", date: "11 septembre", events: [
-      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`,
+      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>`
+      
     ]
   },
   {
@@ -1548,7 +1554,7 @@ const data = {
     day: "Mardi", date: "2 septembre", events: [
       `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `13h00-15h00 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
-      `16h15-17h15 : Atelier de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+      `16h15-17h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
     ]
   },
   {
@@ -1590,7 +1596,8 @@ const data = {
   },
   {
     day: "Jeudi", date: "11 septembre", events: [
-      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`
+      `10h15-12h15 : TD Maths0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
+      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>`
     ]
   },
   {
@@ -1627,7 +1634,7 @@ const data = {
     "date": "4 septembre",
     "events": [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.3<br>(Bât M)</b>",
-      "13h00-14h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+      "13h00-14h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Ateliers de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
     ]
   },
   {
@@ -1668,7 +1675,8 @@ const data = {
     "day": "Jeudi",
     "date": "11 septembre",
     "events": [
-      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>"
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -1707,7 +1715,7 @@ const data = {
     date: "4 septembre",
     events: [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.4<br>(Bât M)</b>",
-      "13h00-14h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+      "13h00-14h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Ateliers de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
     ]
   },
   {
@@ -1748,7 +1756,8 @@ const data = {
     day: "Jeudi",
     date: "11 septembre",
     events: [
-      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>"
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>",
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -1789,7 +1798,7 @@ const data = {
     day: "Jeudi",
     date: "4 septembre",
     events: [
-      "11h15-12h15 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>",
+      "11h15-12h15 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Ateliers de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>",
       "13h00-15h00 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
       "15h15-17h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
     ]
@@ -1833,7 +1842,8 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
-      "13h00-15h00 : Projet Interface<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.6<br>(Bât M)</b>"
+      "13h00-15h00 : Projet Interface<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.6<br>(Bât M)</b>",
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -1872,7 +1882,7 @@ const data = {
     date: "4 septembre",
     events: [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.5<br>(Bât M)</b>",
-      "14h00-15h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Ateliers de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
     ]
   },
   {
@@ -1913,7 +1923,8 @@ const data = {
     day: "Jeudi",
     date: "11 septembre",
     events: [
-      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>"
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>",
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -1952,7 +1963,7 @@ const data = {
     date: "4 septembre",
     events: [
       "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
-      "14h00-15h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Atelier de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Ateliers de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>"
     ]
   },
   {
@@ -1993,7 +2004,8 @@ const data = {
     day: "Jeudi",
     date: "11 septembre",
     events: [
-      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
+      "10h15-12h15 : TD Maths0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>",
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>"
     ]
   },
   {
@@ -2025,7 +2037,7 @@ function renderDay(direction = 'right') {
       if (event.includes('Réunion')) { bg='#0095c8'; }
       else if (event.includes('TD')) { bg='#007ba3'; }
       else if (event.includes('FORUM')) { bg='#00a888'; }
-      else if (event.includes('Atelier') || event.includes('ATELIER')) { bg='#ff008c'; color='#fff'; }
+      else if (event.includes('Ateliers') || event.includes('Ateliers')) { bg='#ff008c'; color='#fff'; }
       else if (event.includes('Présentation')) { bg='#a190f7'; }
       else if (event.includes('Innovation')) { bg='#f9ae5d'; color='#fff'; }
       else if (event.includes('ÉVALUATION')) { bg='#eb1a1a'; }

@@ -2034,18 +2034,19 @@ function renderDay(direction = 'right') {
     let html = "";
     dayData.events.forEach(event => {
       let bg = '#999', color = '#fff';
-      if (event.includes('Réunion')) { bg='#0095c8'; }
-      else if (event.includes('TD')) { bg='#007ba3'; }
-      else if (event.includes('TP')) { bg='#f9ae5d'; color='#fff'; }
-      else if (event.includes('FORUM')) { bg='#00a888'; }
-      else if (event.includes('Ateliers') || event.includes('Ateliers')) { bg='#ff008c'; color='#fff'; }
-      else if (event.includes('Présentation')) { bg='#a190f7'; }
-      else if (event.includes('Innovation')) { bg='#f9ae5d'; color='#fff'; }
-      else if (event.includes('ÉVALUATION')) { bg='#eb1a1a'; }
-      else if (event.includes('Projet Interface')) { bg='#1b3f87'; color='#fff'; }
-      else if (event.includes('Préparations aux concours')) { bg='#497c47'; color='#fff'; }
-      else if (event.includes('Amphi Méthodologie')) { bg='#93329e'; color='#fff'; }
-      else if (event.includes('TP BPL') || event.includes('TP Microscopie')) { bg='#ff6f1e'; color='#fff'; }
+if (event.includes('Réunion de Pré-Rentrée Portail SV')) { bg = '#00887a'; color = '#fff'; }
+      else if (event.includes('Préparations aux concours enseignements liés à la Biologie')) { bg = '#c07ef1'; color = '#fff'; }
+      else if (event.includes('Projet Interface')) { bg = '#00b1d2'; color = '#fff'; }
+      else if (event.includes('Amphi Méthodologie')) { bg = '#ffcc00'; color = '#000'; }
+      else if (event.includes('TP BPL') || event.includes('TP Microscopie')) { bg = '#8b572a'; color = '#fff'; }
+
+      else if (event.includes('Réunion')) { bg = '#0095c8'; }
+      else if (event.includes('TD')) { bg = '#007ba3'; }
+      else if (event.includes('FORUM')) { bg = '#00a888'; }
+      else if (event.includes('Atelier')) { bg = '#ff008c'; color = '#fff'; }
+      else if (event.includes('Présentation')) { bg = '#a190f7'; }
+      else if (event.includes('Innovation')) { bg = '#f9ae5d'; color = '#fff'; }
+      else if (event.includes('ÉVALUATION')) { bg = '#eb1a1a'; }
       html += `<div style="
         margin:14px 0;
         line-height:1.5;

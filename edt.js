@@ -2014,7 +2014,36 @@ const data = {
     events: [
       "<span style=\"color:white; background:#eb1a1a; font-weight:bold; padding:2px 4px;\">(HORAIRE SUR MOODLE) : ÉVALUATION MATHS0</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
-  }]
+  }],
+    groupeSVLAS: [{
+    day: "Lundi", date: "1 septembre", events: [
+      `9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `13h00-14h00 : Réunion de Pré-Rentrée Portail SV - LAS<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
+    ]
+  },
+  {
+    day: "Mardi", date: "2 septembre", events: [
+      `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `13h00-14h00 : Ateliers de rentrée - Noms de A à L inclus - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `14h00-15h00 : Ateliers de rentrée - Noms de M à Z inclus - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`
+    ]
+  },
+  {
+    day: "Mercredi", date: "3 septembre", events: [
+      `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`
+    ]
+  },
+  {
+    day: "Vendredi", date: "5 septembre", events: [
+      `10h15-11h15 : Présentation Licence Chimie pour SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
+      `11h15-12h15 : Amphi Méthodologie (SV)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
+    ]
+  },
+  {
+    day: "Lundi", date: "8 septembre", events: [
+      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+    ]
+  }],
 };
 
 let currentGroup = 'groupeST1';

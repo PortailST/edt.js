@@ -2046,7 +2046,7 @@ const data = {
   }],
 };
 
-let currentGroup = 'groupeST1';
+let currentGroup = document.getElementById('group-select').value;
 let currentIndex = 0;
 let sliding = false;
 

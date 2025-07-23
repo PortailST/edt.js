@@ -2037,7 +2037,7 @@ function renderDay(direction = 'right') {
 if (event.includes('Réunion de Pré-Rentrée Portail SV')) { bg = '#00887a'; color = '#fff'; }
       else if (event.includes('Préparations aux concours enseignements liés à la Biologie')) { bg = '#c07ef1'; color = '#fff'; }
       else if (event.includes('Projet Interface')) { bg = '#00b1d2'; color = '#fff'; }
-      else if (event.includes('Amphi Méthodologie')) { bg = '#ffcc00'; color = '#000'; }
+      else if (event.includes('Amphi Méthodologie')) { bg = '#93329e'; color = '#fff'; }
       else if (event.includes('TP BPL') || event.includes('TP Microscopie')) { bg = '#8b572a'; color = '#fff'; }
 
       else if (event.includes('Réunion')) { bg = '#0095c8'; }

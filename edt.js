@@ -2,8 +2,8 @@ const data = {
   groupeST1: [ {
       day: "Lundi", date: "1er Septembre", events: [
         `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-        `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-        `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+        `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+        `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
       ]
     },
     {
@@ -63,8 +63,8 @@ const data = {
   groupeST2: [ {
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -124,8 +124,8 @@ const data = {
   groupeST3: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -183,8 +183,8 @@ const data = {
   groupeST4: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -242,8 +242,8 @@ const data = {
   groupeST5: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -303,8 +303,8 @@ const data = {
   groupeST6: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée DL Math-Info<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.6 (Bât M)`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -364,8 +364,8 @@ const data = {
   groupeST7: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -425,8 +425,8 @@ const data = {
   groupeST8: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -486,8 +486,8 @@ const data = {
   groupeST9: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -547,8 +547,8 @@ const data = {
   groupeST10: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -608,8 +608,8 @@ const data = {
   groupeST11: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PHYSIQUE`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -669,8 +669,8 @@ const data = {
   groupeST12: [{
     day: "Lundi", date: "1er Septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée DL Math-Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.4 (Bât M)`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI PV`
     ]
   },
   {
@@ -730,8 +730,8 @@ const data = {
   groupeST13: [{
     day: "Lundi", date: "1 septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PHYSIQUE</b>`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -791,8 +791,8 @@ const data = {
   groupeST14: [{
     day: "Lundi", date: "1 septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée Portail ST - OUI SI<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PHYSIQUE</b>`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -852,8 +852,8 @@ const data = {
   groupeST15: [{
     day: "Lundi", date: "1 septembre", events: [
       `11h15-12h15 : Réunion de Pré-Rentrée PPPE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -911,8 +911,8 @@ const data = {
     day: "Lundi", date: "1 septembre", events: [
       `9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `11h15-12h15 : Réunion de Pré-Rentrée DL Math-SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -972,8 +972,8 @@ const data = {
   }],
   groupeST17: [ {
     day: "Lundi", date: "1 septembre", events: [
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1029,8 +1029,8 @@ const data = {
   }],
   groupeST18: [ {
     day: "Lundi", date: "1 septembre", events: [
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1086,8 +1086,8 @@ const data = {
   }],
   groupeST19: [{
     day: "Lundi", date: "1 septembre", events: [
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1143,8 +1143,8 @@ const data = {
   }],
   groupeST20: [{
     day: "Lundi", date: "1 septembre", events: [
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1201,8 +1201,8 @@ const data = {
   }],
   groupeST21: [{
     day: "Lundi", date: "1 septembre", events: [
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST (LAS) - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1484,8 +1484,8 @@ const data = {
     day: "Lundi", date: "1 septembre", events: [
       `9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `11h15-12h15 : Réunion de Pré-Rentrée DL BIO-GS<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5</b>`,
-      `13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
-      `15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1773,8 +1773,8 @@ const data = {
     events: [
       "9h00-11h15 : Réunion de Pré-Rentrée Portail SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
       "11h15-12h15 : Réunion de Pré-Rentrée DL Chimie-SV<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.1</b>",
-      "13h00-15h00 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
-      "15h15-17h15 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "13h00-14h30 : Réunion de Pré-Rentrée Portail ST - Noms de A à L inclus<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
+      "15h00-16h30 : Réunion de Pré-Rentrée Portail ST - Noms de M à Z inclus<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {

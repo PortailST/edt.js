@@ -1670,7 +1670,7 @@ const data = {
     "date": "9 septembre",
     "events": [
       "8h00-10h00 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
-      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {
@@ -1742,7 +1742,7 @@ const data = {
     date: "8 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.5<br>(Bât M)</b>",
-      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {
@@ -1808,7 +1808,6 @@ const data = {
     date: "4 septembre",
     events: [
       "11h15-12h15 : <span style=\"color:white; background:#ff008c; font-weight:bold; padding:2px 4px;\">Ateliers de rentrée - OBLIGATOIRE</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle Coworking<br>(Bât M)</b>",
-      "13h00-15h00 : Présentation Licence Sciences de la Vie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>",
       "15h15-17h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>"
     ]
   },
@@ -1827,7 +1826,7 @@ const data = {
     date: "8 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
-      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {
@@ -1851,8 +1850,7 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
-      "13h00-15h00 : Projet Interface<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.6<br>(Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Projet Interface<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.6<br>(Bât M)</b>"
     ]
   },
   {
@@ -1909,7 +1907,7 @@ const data = {
     date: "8 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>",
-      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {
@@ -1990,7 +1988,7 @@ const data = {
     date: "8 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.3<br>(Bât M)</b>",
-      "13h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
+      "14h00-15h00 : <span style=\"color:white; background:#f9ae5d; font-weight:bold; padding:2px 4px;\">Innovation (Fablab & Invent)</span><br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI PV</b>"
     ]
   },
   {

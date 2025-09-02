@@ -774,7 +774,7 @@ const data = {
   {
     day: "Mardi", date: "9 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.2 (Bât M)</b>`,
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -835,7 +835,7 @@ const data = {
   {
     day: "Mardi", date: "9 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.3 (Bât M)</b>`,
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -922,7 +922,7 @@ const data = {
   {
     day: "Mardi", date: "2 septembre", events: [
       `8h00-10h00 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.2 (Bât M)</b>`,
-      `10h15-11h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
+      `10h15-12h15 : Présentation Licence Sciences de la Vie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
@@ -930,7 +930,7 @@ const data = {
   {
     day: "Mercredi", date: "3 septembre", events: [
       `8h00-10h00 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
-      `10h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `10h15-11h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `9h30-13h30 : FORUM D'ACCUEIL - Nouveaux entrants<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Bibliothèque</b>`
     ]
   },
@@ -956,7 +956,7 @@ const data = {
   {
     day: "Mardi", date: "9 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 3.4 (Bât M)</b>`,
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -982,6 +982,7 @@ const data = {
   },
   {
     day: "Mardi", date: "2 septembre", events: [
+      `9h00-10h00 : Réunion de Pré-Rentrée LAS Portail ST<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.3 (Bât M)</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
@@ -1039,6 +1040,7 @@ const data = {
   },
   {
     day: "Mardi", date: "2 septembre", events: [
+      `9h00-10h00 : Réunion de Pré-Rentrée LAS Portail ST<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
@@ -1096,6 +1098,7 @@ const data = {
   },
   {
     day: "Mardi", date: "2 septembre", events: [
+      `9h00-10h00 : Réunion de Pré-Rentrée LAS Portail ST<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
@@ -1153,6 +1156,7 @@ const data = {
   },
   {
     day: "Mardi", date: "2 septembre", events: [
+      `9h00-10h00 : Réunion de Pré-Rentrée LAS Portail ST<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.1 (Bât M)</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
@@ -1211,6 +1215,7 @@ const data = {
   },
   {
     day: "Mardi", date: "2 septembre", events: [
+      `9h00-10h00 : Réunion de Pré-Rentrée LAS Portail ST<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`,
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.2 (Bât M)</b>`,
       `13h00-15h00 : Présentation Licence Physique<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`,
       `15h15-17h15 : Présentation Licence Chimie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
@@ -1298,7 +1303,7 @@ const data = {
   {
     day: "Lundi", date: "8 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1521,7 +1526,7 @@ const data = {
   {
     day: "Lundi", date: "8 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.3 (Bât M)</b>`,
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -1590,7 +1595,7 @@ const data = {
   {
     day: "Mardi", date: "9 septembre", events: [
       `8h00-10h00 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   },
   {
@@ -2045,7 +2050,7 @@ const data = {
   },
   {
     day: "Lundi", date: "8 septembre", events: [
-      `13h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
+      `14h00-15h00 : Innovation (Fablab & Invent)<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI PV</b>`
     ]
   }],
 };

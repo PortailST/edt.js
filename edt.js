@@ -2050,46 +2050,35 @@ let currentGroup;
 let currentIndex = 0;
 let sliding = false;
 
+// =============================
+// Fonction d’affichage
+// =============================
+
 function renderDay(direction = 'right') {
+  const content = document.getElementById('day-content');
+  if (!data[currentGroup] || !data[currentGroup][currentIndex]) {
+    content.innerHTML = `<div style="padding:20px; text-align:center; font-weight:bold; color:#eb1a1a;">Aucun cours disponible</div>`;
+    document.getElementById('current-date').textContent = "";
+    return;
+  }
+
+  // --- affichage direct sans animation ---
+  if (direction === 'reset') {
+    const dayData = data[currentGroup][currentIndex];
+    updateDayContent(dayData, content);
+    return;
+  }
+
+  // --- affichage avec animation ---
   if (sliding) return;
   sliding = true;
-  const content = document.getElementById('day-content');
   content.style.transition = 'transform 0.2s ease-in-out';
   content.style.transform = `translateX(${direction === 'right' ? '-100%' : '100%'})`;
 
   setTimeout(() => {
     const dayData = data[currentGroup][currentIndex];
-    document.getElementById('current-date').textContent = `${dayData.day} - ${dayData.date}`;
-    let html = "";
-    dayData.events.forEach(event => {
-      let bg = '#999', color = '#fff';
-if (event.includes('Réunion de Pré-Rentrée Portail SV')) { bg = '#00887a'; color = '#fff'; }
-      else if (event.includes('Préparations aux concours enseignements liés à la Biologie')) { bg = '#c07ef1'; color = '#fff'; }
-      else if (event.includes('Projet Interface')) { bg = '#00b1d2'; color = '#fff'; }
-      else if (event.includes('Amphi Méthodologie')) { bg = '#93329e'; color = '#fff'; }
-      else if (event.includes('TP BPL') || event.includes('TP Microscopie')) { bg = '#8b572a'; color = '#fff'; }
+    updateDayContent(dayData, content);
 
-      else if (event.includes('Réunion')) { bg = '#0095c8'; }
-      else if (event.includes('TD')) { bg = '#007ba3'; }
-      else if (event.includes('FORUM')) { bg = '#00a888'; }
-      else if (event.includes('Atelier')) { bg = '#ff008c'; color = '#fff'; }
-      else if (event.includes('Présentation')) { bg = '#a190f7'; }
-      else if (event.includes('Innovation')) { bg = '#f9ae5d'; color = '#fff'; }
-      else if (event.includes('ÉVALUATION')) { bg = '#eb1a1a'; }
-      html += `<div style="
-        margin:14px 0;
-        line-height:1.5;
-        font-size:18px;
-        border-radius:12px;
-        padding:14px 18px;
-        color:${color};
-        background:${bg};
-        box-shadow:0 3px 6px rgba(0,0,0,0.1);
-        word-break:break-word;
-        font-weight:bold;
-      ">${event}</div>`;
-    });
-    content.innerHTML = html;
     content.style.transition = 'none';
     content.style.transform = `translateX(${direction === 'right' ? '100%' : '-100%'})`;
     setTimeout(() => {
@@ -2099,6 +2088,48 @@ if (event.includes('Réunion de Pré-Rentrée Portail SV')) { bg = '#00887a'; co
     }, 20);
   }, 200);
 }
+
+// =============================
+// Mise à jour du contenu d’un jour
+// =============================
+
+function updateDayContent(dayData, content) {
+  document.getElementById('current-date').textContent = `${dayData.day} - ${dayData.date}`;
+  let html = "";
+  dayData.events.forEach(event => {
+    let bg = '#999', color = '#fff';
+    if (event.includes('Réunion de Pré-Rentrée Portail SV')) { bg = '#00887a'; }
+    else if (event.includes('Préparations aux concours enseignements liés à la Biologie')) { bg = '#c07ef1'; }
+    else if (event.includes('Projet Interface')) { bg = '#00b1d2'; }
+    else if (event.includes('Amphi Méthodologie')) { bg = '#93329e'; }
+    else if (event.includes('TP BPL') || event.includes('TP Microscopie')) { bg = '#8b572a'; }
+    else if (event.includes('Réunion')) { bg = '#0095c8'; }
+    else if (event.includes('TD')) { bg = '#007ba3'; }
+    else if (event.includes('FORUM')) { bg = '#00a888'; }
+    else if (event.includes('Atelier')) { bg = '#ff008c'; }
+    else if (event.includes('Présentation')) { bg = '#a190f7'; }
+    else if (event.includes('Innovation')) { bg = '#f9ae5d'; }
+    else if (event.includes('ÉVALUATION')) { bg = '#eb1a1a'; }
+
+    html += `<div style="
+      margin:14px 0;
+      line-height:1.5;
+      font-size:18px;
+      border-radius:12px;
+      padding:14px 18px;
+      color:${color};
+      background:${bg};
+      box-shadow:0 3px 6px rgba(0,0,0,0.1);
+      word-break:break-word;
+      font-weight:bold;
+    ">${event}</div>`;
+  });
+  content.innerHTML = html;
+}
+
+// =============================
+// Navigation
+// =============================
 
 function nextDay() {
   const groupData = data[currentGroup];
@@ -2114,14 +2145,18 @@ function prevDay() {
   renderDay('left');
 }
 
+// =============================
+// Initialisation
+// =============================
+
 document.addEventListener("DOMContentLoaded", function () {
   currentGroup = document.getElementById('group-select').value;
   currentIndex = 0;
-  renderDay('right');
+  renderDay('reset'); // 👉 affiche toujours lundi au départ
 
   document.getElementById('group-select').addEventListener('change', function () {
     currentGroup = this.value;
     currentIndex = 0;
-    renderDay('right');
+    renderDay('reset'); // 👉 toujours lundi au changement de groupe
   });
 });

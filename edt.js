@@ -152,7 +152,7 @@ const data = {
   },
   {
     day: "Vendredi", date: "5 Septembre", events: [
-      `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.2 (Bât M)`,
+      `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> Salle M 1.3 (Bât M)`,
       `13h00-15h00 : Présentation Licence Sciences de la Terre<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> AMPHI Sc. Naturelles`
     ]
   },

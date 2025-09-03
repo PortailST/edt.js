@@ -1319,7 +1319,7 @@ const data = {
   {
     day: "Jeudi", date: "11 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.1 (Bât M)</b>`,
-      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>`
+      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
     ]
   },
   {
@@ -1398,7 +1398,7 @@ const data = {
     date: "11 septembre",
     events: [
       '10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.2 (Bât M)</b>',
-      '13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>'
+      '13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>'
     ]
   },
   {
@@ -1479,7 +1479,7 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 1.3 (Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
     ]
   },
   {
@@ -1544,7 +1544,7 @@ const data = {
   {
     day: "Jeudi", date: "11 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.4 (Bât M)</b>`,
-      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>`
+      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
       
     ]
   },
@@ -1606,7 +1606,7 @@ const data = {
   {
     day: "Jeudi", date: "11 septembre", events: [
       `10h15-12h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 1.5 (Bât M)</b>`,
-      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle à venir</b>`
+      `13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>AMPHI Sc. Naturelles</b>`
     ]
   },
   {
@@ -1685,7 +1685,7 @@ const data = {
     "date": "11 septembre",
     "events": [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.1<br>(Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
     ]
   },
   {
@@ -1766,7 +1766,7 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.2<br>(Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
     ]
   },
   {
@@ -1931,7 +1931,7 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.4<br>(Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
     ]
   },
   {
@@ -2012,7 +2012,7 @@ const data = {
     date: "11 septembre",
     events: [
       "10h15-12h15 : TD Math0<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle M 2.5<br>(Bât M)</b>",
-      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>Salle à venir</b>"
+      "13h00-15h00 : Préparations aux concours enseignements liés à la Biologie<br><img src=\"https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336\" style=\"width:20px; vertical-align:middle; filter:brightness(0) invert(1);\"> <b>AMPHI Sc. Naturelles</b>"
     ]
   },
   {

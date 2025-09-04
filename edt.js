@@ -1511,7 +1511,7 @@ const data = {
   },
   {
     day: "Jeudi", date: "4 septembre", events: [
-      `10h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
+      `11h15-12h15 : Ateliers de rentrée - OBLIGATOIRE<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle Coworking (Bât M)</b>`,
       `15h15-17h15 : TD Math0<br><img src="https://univ-cotedazur.fr/medias/photo/position_1689063333149-png?ID_FICHE=1202336" style="width:20px; vertical-align:middle; filter:brightness(0) invert(1);"> <b>Salle M 2.4 (Bât M)</b>`
     ]
   },
